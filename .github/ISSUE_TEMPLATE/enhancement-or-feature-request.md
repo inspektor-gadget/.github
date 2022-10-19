@@ -2,7 +2,7 @@
 name: Enhancement or Feature request
 about: Suggest a new feature or enhancement
 title: '[RFE]'
-labels: "kind/feature"
+labels: "enhancement"
 assignees: ''
 
 ---
